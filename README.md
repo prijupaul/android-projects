@@ -13,5 +13,9 @@ CustomActionBar
 
 CustomActionBar is a demo app on how to customize the action bar and remove the default action bar. This feature is supported above version 11.
 
+DrawCanvas
+==========
 
+Drawcanvas is a picture editing tool used to draw shapes and to save those images as png files. 
+You also edit an old picture or create a new picture from scratch. 
 
