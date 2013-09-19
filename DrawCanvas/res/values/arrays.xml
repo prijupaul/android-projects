@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="grid_icon_array">
+        <item>@drawable/pencil</item>
+        <item>@drawable/circle</item>
+        <item>@drawable/text</item>
+        <item>@drawable/color</item>
+        <item>@drawable/erase</item>
+        <item>@drawable/newpage</item>        
+    </array>
+    
+    <array name="grid_icon_text_array">
+        <item>@string/free_drawing</item>
+        <item>@string/circle</item>
+        <item>@string/text</item>
+        <item>@string/color</item>
+        <item>@string/erase</item>
+        <item>@string/newPage</item>
+        
+    </array>
+</resources>

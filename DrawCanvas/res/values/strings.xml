@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawCanvas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="enter_text">Enter text</string>
+	<string name="alert_dialog_ok">Ok</string>
+	<string name="alert_dialog_cancel">Cancel</string>
+	<string name="text_empty">Text cannot be empty!!!</string>
+	<string name="place_text">Draw a path in the site plan to place the text!!</string>
+	<string name="draw_path">Draw Path</string>
+	<string name="donotshow_string">Do not show this hint again</string>
+	<string name="tools">Drawing Tools</string>
+	<string name="save">Save</string>
+	<string name="free_drawing">Free Drawing</string>
+	<string name="circle">Circle</string>
+	<string name="text">Text</string>
+	<string name="newPage">New Page</string>
+	<string name="erase">Erase</string>
+	<string name="color">Color</string>
+</resources>
